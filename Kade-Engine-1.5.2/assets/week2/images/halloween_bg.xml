@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="halloween_bg.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kit bg0000" x="0" y="0" width="2423" height="1399"/>
+	<SubTexture name="kit bg strike0001" x="0" y="1721" width="2423" height="1399" frameX="0" frameY="0" frameWidth="2423" frameHeight="1399"/>
+	<SubTexture name="kit bg strike0002" x="6" y="3395" width="2423" height="1399" frameX="0" frameY="0" frameWidth="2423" frameHeight="1399"/>
+</TextureAtlas>
